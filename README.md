@@ -1,8 +1,8 @@
 # POS Inventory Management System
 (This is a java project I made in my software engineering subject)
 
-![](https://github.com/FrancisM17/POS_InventorySystem/blob/master/SYSTEM%20FLOW.mp4?raw=true)
 
+![](SYSTEM-FLOW.gif)
 
 <p align="center">
 <img src="https://github.com/FrancisM17/POS_InventorySystem/blob/master/System%20images/1.PNG" width="400" height="550" />
